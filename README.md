@@ -97,3 +97,4 @@ dashboard/    Streamlit dashboard
 - Kafka is fed from a static file to simulate a stream (the dataset is batch data).
 - Data source: NYC TLC trip records, mirrored at `huggingface.co/datasets/DinoPonjevic/NYC_TaxiData`.
 # nyc-taxi-pipeline
+# nyc-taxi-pipeline
